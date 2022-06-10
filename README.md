@@ -1,4 +1,4 @@
-# sl-CSD project
+# CSD_project
 
 An attempt to find CSD genes in other hymenopterans using the only reference (_Apis melifera_).
 
@@ -80,6 +80,8 @@ done
 
 This resulted in minimal alignments. The best being between the _fem_ and _csd_ gene which makes sense as _csd_ is a neofunctional dupe of _fem_, but even this alignment was very minimal.
 
+![](assets/csd-fem.png)
+
 Oddly enough, the reference csd taken from _A. mellifera_ didn't align at all. Perhaps Dot is too simple a tool?
 
 </details>
@@ -106,3 +108,6 @@ _Apis mellifera_ will be the positive control, as it contains the reference CSD
 _Bombus sp._, _Apis sp._ will be screened
 
 
+## Further investigations
+
+- [ ] Using HMM to identify the domains in the Apodiae assemblies
